@@ -16,10 +16,12 @@
 struct DeveloperProfile {
     let languages: [Language] = [
         .swift,
-        .objectiveC
+        .python,
+        .cpp
     ]
 
     let architectures: [Architecture] = [
+        .mvc,
         .mvvm,
         .viper,
         .clean
@@ -38,7 +40,7 @@ struct DeveloperProfile {
 
 ---
 
-## 📱 Выбранные проекты  
+## 📱 Main projects  
 1. **[iOS_SwiftUI_Practice](https://github.com/MaximB0nd/SwiftUILessons)**  
    Тренировка разработки приложений с использованием SwiftUI
 
@@ -51,7 +53,7 @@ struct DeveloperProfile {
 
 ---
 
-## 📈 Статистика GitHub  
+## 📈 Статистика   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximB0nd&show_icons=true&theme=radical)   
 
 <p align="center">
