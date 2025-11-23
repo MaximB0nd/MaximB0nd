@@ -38,22 +38,7 @@ struct DeveloperProfile {
 }
 ```
 
----
-
-## 📱 Main projects  
-1. **[iOS_SwiftUI_Practice](https://github.com/MaximB0nd/SwiftUILessons)**  
-   Тренировка разработки приложений с использованием SwiftUI
-
-2. **[Swift_LeetCode_Practice](https://github.com/MaximB0nd/LeetCodePractice)**  
-   Тренировка решений алгоритмических задач с использованием ЯП Swift
-
-3. **[Swift_Practice](https://github.com/MaximB0nd/SwiftLessons)**  
-   Тренировка познания ЯП Swift
- 
-
----
-
-## 📈 Статистика   
+## Статистика   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximB0nd&show_icons=true&theme=radical)   
 
 <p align="center">
