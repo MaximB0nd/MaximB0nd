@@ -1,50 +1,54 @@
-# Максим Бондарев
-**iOS-разработчик**
+<div align="center">
 
+# Maxim Bondarev
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TestFlight-000000?style=for-the-badge&logo=TestFlight&logoColor=white" /> </p>
+### AI Developer · Agentic Systems · LLM Applications
 
+AI developer with **3+ years of commercial experience**, focused on AI-powered products,
+agentic systems, LLM applications, and backend development.
 
+[![Email](https://img.shields.io/badge/Email-sersim11%40yandex.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sersim11@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Maxim__B0nd-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Maxim_B0nd)
 
----
+</div>
 
-### 📱 Core Expertise
-```swift
-struct DeveloperProfile {
-    let languages: [Language] = [
-        .swift,
-        .python,
-        .cpp
-    ]
+## About me
 
-    let architectures: [Architecture] = [
-        .mvc,
-        .mvvm,
-        .viper,
-        .clean
-    ]
+My profile combines agentic AI, LLM engineering, backend development, infrastructure,
+and product analytics. My stack covers model tooling, RAG, local and production
+inference, APIs, data systems, evaluation, and product experimentation.
 
-    let techStack: [Framework] = [
-        .uiKit,
-        .swiftUI
-    ]
+## Core expertise
 
-    let specialties: [Specialty] = [
-        .performanceOptimization
-    ]
-}
-```
+### Agentic AI & AI development tools
 
-## Статистика   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximB0nd&show_icons=true&theme=radical)   
+`Codex` · `Claude Code` · `Cursor` · `MCP` · `Hugging Face` · `Qwen` · `Ollama` · `llama.cpp` · `Agent Skills` · `Transformers` · `LLM Agents` · `A2A` · `GigaChat` · `Evals`
 
-<p align="center">
-  <a href="mailto:sersim11@yandex.ru"> <img src="https://img.icons8.com/clouds/100/email.png" width="70"> </a> 
-  <a href="https://t.me/Maxim_B0nd"> <img src="https://img.icons8.com/clouds/100/telegram-app.png" width="70"> </a>
-</p>
-<p align="center">
-*«Превращаю идеи в приложения, которые работают, вдохновляют и остаются в памяти»* 🌟  
-</p>
+### LLM, RAG & inference
+
+`PyTorch` · `vLLM` · `RAG` · `Embeddings` · `Vector Search` · `Vector Databases` · `Tool Calling` · `Multimodal AI` · `LLM Inference`
+
+### Backend & data
+
+`FastAPI` · `PostgreSQL` · `Pydantic` · `SQLAlchemy` · `Alembic` · `Redis` · `REST API` · `WebSocket` · `RabbitMQ` · `MinIO` · `pgvector` · `asyncio` · `httpx` · `Uvicorn` · `pytest`
+
+### Infrastructure
+
+`Docker` · `Kubernetes` · `Git` · `Linux` · `Bash` · `GitHub Actions` · `GitLab CI` · `Nginx` · `Docker Compose`
+
+### Product development & languages
+
+`Python` · `TypeScript` · `SQL` · `Product Analytics` · `A/B Testing` · `Customer Development` · `Retention`
+
+## Focus areas
+
+- Agentic workflows and tool-using LLM systems
+- Retrieval-augmented generation and vector search
+- Local and production LLM inference
+- Multimodal AI applications
+- AI product development backed by experimentation and analytics
+
+## Contact
+
+- Email: [sersim11@yandex.ru](mailto:sersim11@yandex.ru)
+- Telegram: [@Maxim_B0nd](https://t.me/Maxim_B0nd)
